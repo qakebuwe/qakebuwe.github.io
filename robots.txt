@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://qakebuwe.github.io/sitemap/sitemap_index.qakebuwe
+Sitemap: https://qakebuwe.github.io/ZxW/sitemap_index.qakebuwe
+Sitemap: https://qakebuwe.github.io/caS/sitemap_index.qakebuwe
+Sitemap: https://qakebuwe.github.io/uNB/sitemap_index.qakebuwe
+Sitemap: https://qakebuwe.github.io/Vvj/sitemap_index.qakebuwe
+Sitemap: https://qakebuwe.github.io/ibJ/sitemap_index.qakebuwe
+Sitemap: https://qakebuwe.github.io/pLr/sitemap_index.qakebuwe
+Sitemap: https://qakebuwe.github.io/GuW/sitemap_index.qakebuwe
+Sitemap: https://qakebuwe.github.io/lxw/sitemap_index.qakebuwe
+Sitemap: https://qakebuwe.github.io/pFQ/sitemap_index.qakebuwe
+Sitemap: https://qakebuwe.github.io/Fdl/sitemap_index.qakebuwe
+Sitemap: https://qakebuwe.github.io/Pmu/sitemap_index.qakebuwe
+Sitemap: https://qakebuwe.github.io/BpJ/sitemap_index.qakebuwe
+Sitemap: https://qakebuwe.github.io/fQj/sitemap_index.qakebuwe
+Sitemap: https://qakebuwe.github.io/DKC/sitemap_index.qakebuwe
+Sitemap: https://qakebuwe.github.io/uZa/sitemap_index.qakebuwe
+Sitemap: https://qakebuwe.github.io/pNk/sitemap_index.qakebuwe
+Sitemap: https://qakebuwe.github.io/FJl/sitemap_index.qakebuwe
+Sitemap: https://qakebuwe.github.io/tcD/sitemap_index.qakebuwe
+Sitemap: https://qakebuwe.github.io/qGy/sitemap_index.qakebuwe
+Sitemap: https://qakebuwe.github.io/kRo/sitemap_index.qakebuwe
